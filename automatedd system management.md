@@ -120,7 +120,7 @@ After completing the exercises, you should understand:
 ---
 
 
-Here’s a set of test questions based on the above exercise topics in automated system management. These questions can help assess a candidate's understanding of system updates, monitoring, backups, and service management automation on Linux.
+
 
 ---
 
