@@ -110,7 +110,7 @@
 1. **Download a Package**
    - Download the `.deb` file for Slack (example package):
      ```bash
-     wget https://downloads.slack-edge.com/linux_releases/slack-desktop-4.25.1-amd64.deb
+     wget https://downloads.slack-edge.com/desktop-releases/linux/x64/4.38.125/slack-desktop-4.38.125-amd64.deb
      ```
 
 2. **Install the Package Manually with dpkg**
