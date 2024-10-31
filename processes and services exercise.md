@@ -1,4 +1,3 @@
----
 
 ### **Exercise: Managing Processes and Services**
 
@@ -100,4 +99,3 @@
 - What would you do if a critical service repeatedly failed to start?
 - Why might you use a `nice` value adjustment or a `cgroup` limit on a process?
 
----
