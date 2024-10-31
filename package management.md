@@ -1,4 +1,3 @@
----
 
 ### **1. Basic Package Management Concepts**
 
@@ -22,19 +21,19 @@
      ```
    - **Install a Package**:
      ```bash
-     sudo apt install <package_name>
+     sudo apt install nginx
      ```
    - **Remove a Package**:
      ```bash
-     sudo apt remove <package_name>
+     sudo apt remove nginx
      ```
    - **Search for a Package**:
      ```bash
-     apt search <keyword>
+     apt search apache2
      ```
    - **View Package Info**:
      ```bash
-     apt show <package_name>
+     apt show apache2
      ```
 
 ### **2. Intermediate Package Management Techniques**
@@ -43,7 +42,7 @@
    APT handles dependencies automatically, but sometimes manual adjustments are needed:
    - **Install Without Recommended Packages**:
      ```bash
-     sudo apt install --no-install-recommends <package_name>
+     sudo apt install --no-install-recommends python3
      ```
    - **Fix Broken Dependencies**:
      ```bash
@@ -51,7 +50,7 @@
      ```
    - **Purge a Package** (removes configuration files as well):
      ```bash
-     sudo apt purge <package_name>
+     sudo apt purge python3
      ```
 
 #### **2.2 Advanced Package Removal and Cleanup**
